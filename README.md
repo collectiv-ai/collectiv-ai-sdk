@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="CollectiVAI Logo" width="360" />
+  <img src="logo.png" alt="CollectiVAI Logo" width="400" />
 </p>
 
 <h1 align="center">CollectiVAI SDKs</h1>
