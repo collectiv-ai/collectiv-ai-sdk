@@ -1,0 +1,18 @@
+{
+  "name": "@collectivai/sdk",
+  "version": "0.1.0",
+  "description": "Official TypeScript SDK for the CollectiVAI Router (prototype).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [
+    "ai",
+    "sdk",
+    "router",
+    "collectivai"
+  ],
+  "author": "CollectiVAI",
+  "license": "SEE LICENSE IN ../LICENSE"
+}
